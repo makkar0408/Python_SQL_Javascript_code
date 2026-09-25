@@ -16,7 +16,7 @@ The solution includes:
  
 ## Architecture
  
-Customer CSV
+Customer_data CSV
 ↓
 Python + Pandas
 ↓
@@ -33,37 +33,21 @@ SQL Analytics & Reporting
 ## Repository Contents
  
 ### Architecture
-Contains the solution architecture diagram in drawio..
+Contains the solution architecture diagram in drawio and .png file
  
 ### Python
-Contains the data cleansing and GCS upload implementation.
+Contains the python script for data cleansing and GCS upload implementation.
  
 ### Documentation
 Contains:
-- The GCP Architecture guide
-- GCP Configuration Guide
+- The GCP Implementation approach - highlighting all GCP components
+- Architecture example explanation - summarizing the drawio diagram, key GCP services used and key design decisions
 
- 
-### Sample Data
-Contains the source and cleaned datasets used during development.
- 
----
- 
-## Technologies Used
- 
-- Python
-- Pandas
-- Google Cloud Storage
-- BigQuery
-- Google IAM
-- SQL
- 
----
- 
+
 ## Key Deliverables
  
 - Architecture Diagram
-- Python Data Processing Solution
+- Python script
 - Google Cloud Storage Integration
 - BigQuery Dataset & Table Creation
 - SQL Window Function Analysis
