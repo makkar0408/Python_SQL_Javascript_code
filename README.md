@@ -36,11 +36,11 @@ SQL Analytics & Reporting
 Contains the solution architecture diagram in drawio and .png file
  
 ### Python
-Contains the python script for data cleansing and GCS upload implementation.
+Contains the python script for data cleansing and GCS upload implementation(Customer_dataset.py)
  
 ### Documentation
 Contains:
-- The GCP Implementation approach - highlighting all GCP components
+- The GCP Implementation approach - highlighting all GCP components created for coding task
 - Architecture example explanation - summarizing the drawio diagram, key GCP services used and key design decisions
 - Csutomer_Data_pipeline_summary - summarizing the python and GCP components and their integration
 
@@ -50,9 +50,7 @@ Contains:
 - Architecture Diagram
 - Python script
 - Google Cloud Storage Integration
-- BigQuery Dataset & Table Creation
-- SQL Window Function Analysis
-- Regional Spending Analysis
+- The sample source and cleaned csv files
 - Supporting Documentation
  
 ---
