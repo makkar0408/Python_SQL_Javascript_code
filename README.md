@@ -14,7 +14,7 @@ The solution includes:
  
 ---
  
-## Architecture
+## Coding and Data transformation solution
  
 Customer_data CSV
 ↓
@@ -32,7 +32,7 @@ SQL Analytics & Reporting
  
 ## Repository Contents
  
-### Architecture
+### Architecture(GCP Data Engineering Architecture Design)
 Contains the solution architecture diagram in drawio and .png file
  
 ### Python
@@ -42,6 +42,7 @@ Contains the python script for data cleansing and GCS upload implementation.
 Contains:
 - The GCP Implementation approach - highlighting all GCP components
 - Architecture example explanation - summarizing the drawio diagram, key GCP services used and key design decisions
+- Csutomer_Data_pipeline_summary - summarizing the python and GCP components and their integration
 
 
 ## Key Deliverables
