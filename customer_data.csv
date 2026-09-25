@@ -1,0 +1,11 @@
+OrderID,CustomerID,OrderRegion,OrderDate,OrderAmount,ProductID,Quantity
+101,1,Yorkshire,01/07/2023,150,1001,1
+102,2,Tyne & Wear,03/07/2023,,1002,2
+103,1,Yorkshire,INVALID_DATE,200.5,1001,
+104,3,London,05/07/2023,350,,4
+105,2,Tyne & Wear,03/07/2023,One Hundred Pounds,1003,1
+106,1,Yorkshire,01/07/2023,150,1001,1
+107,2,Tyne & Wear,03/07/2023,One Hundred Pounds,1003,1
+108,1,Yorkshire,INVALID_DATE,50,1006,Three
+109,3,London,05/07/2023,970,,3
+110,2,Tyne & Wear,23/07/2023,,1010,1
